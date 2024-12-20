@@ -5,7 +5,7 @@
  * generated for an **exported** function.
  */
 
-//% color="#5178cf" weight=100 icon="\uf61f" block="Area"
+//% color="#5178cf" weight=100 block="Area"
 //% groups=["Basic", "Advanced", "Polygons"]
 namespace areas {
     //% block="circle - radius $radius"
